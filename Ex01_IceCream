@@ -86,4 +86,6 @@ function setup() {
     isBlack = !isBlack;
     
   }
+  
+  console.log("All Done");
 }
